@@ -16,7 +16,7 @@ for ( let j=0; j<5 ; j++)
 {
     console.log( `Tabla de multiplicar ${j}*3`.blue +" "+ j*3)
 }
-for ( let j=0; j<5 ; j++)
+for ( let j=0; j<6 ; j++)
 {
     console.log( `Tabla de multiplicar ${j}*4`.blue +" "+ j*4)
 }
